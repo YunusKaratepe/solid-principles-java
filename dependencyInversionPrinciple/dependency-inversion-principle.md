@@ -1,0 +1,2 @@
+# Dependency Inversion Principle
+* The Dependency Inversion Principle (DIP) states that we should depend on abstractions (interfaces and abstract classes) instead of concrete implementations (classes). The abstractions should not depend on details; instead, the details should depend on abstractions.
